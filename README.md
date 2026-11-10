@@ -1,19 +1,14 @@
-Money Inventory System
-A Java-based Money Inventory System developed using NetBeans IDE. The application provides functionality for tracking monetary assets, managing inventory records, processing transactions, and maintaining accurate financial information.
+Inventory Management System
+A Java-based Inventory Management System developed using NetBeans IDE. The application enables efficient product tracking, stock management, and inventory control through a user-friendly interface. The system applies Object-Oriented Programming principles to manage inventory data and streamline stock operations.
 
 Technical Features
-Financial inventory management
-Asset tracking and monitoring
-Transaction recording and processing
-Data validation and error handling
-Search and filtering capabilities
-Modular Object-Oriented design
-Report generation
-Secure data management
-Technologies Used
-Java
-NetBeans IDE
-Object-Oriented Programming (OOP)
-Collections Framework
-File Handling
-Exception Handling
+Product inventory management
+Product name and ID tracking
+Stock quantity monitoring
+Add stock functionality
+Remove stock functionality
+Inventory validation checks
+Input validation and error handling
+Real-time inventory updates
+Object-Oriented Programming (OOP) architecture
+User-friendly interface using Java Swing
